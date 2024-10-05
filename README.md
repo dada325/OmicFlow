@@ -15,7 +15,7 @@ Release will be out middle Oct 2024. Keep in touch.
 
 ## 🙌 Contributing
 
-I would like to also give all my thanks to the Flowise contributors. This project is a fork of Flowise and would not be possible without their work.
+I would like to also give all my thanks to the Flowise @2.11 release contributors. This project is a fork of Flowise and would not be possible without their work.
 
 Thanks go to these awesome contributors
 
