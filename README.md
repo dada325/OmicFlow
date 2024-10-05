@@ -23,8 +23,6 @@ Thanks go to these awesome contributors
 <img src="https://contrib.rocks/image?repo=FlowiseAI/Flowise" />
 </a>
 
-See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://discord.gg/jbaHfsRVBW) if you have any questions or issues.
-
 ## 📄 License
 
 Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
